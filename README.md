@@ -9,7 +9,7 @@ It is built on the official OpenGD77 source release **R20260131**, target `MDUV3
 (`PLATFORM_MDUV380` + `PLATFORM_VARIANT_UV380_PLUS_10W`). All the normal OpenGD77 functionality
 (DMR/FM transmit + receive, hotspot, etc.) is unchanged. AES-256 is always compiled in: every build of
 this fork is an AES build.
-
+ 
 ## ⚠️ Legal
 
 AES-256 encrypted voice is **illegal on amateur radio bands in most countries**; it is only valid on
