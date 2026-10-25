@@ -12,6 +12,7 @@ this fork is an AES build.
  
 ## ⚠️ Legal
 
+
 AES-256 encrypted voice is **illegal on amateur radio bands in most countries**; it is only valid on
 licensed commercial / PMR allocations. Use this only where you are licensed to transmit encrypted
 voice. The source and binaries are also **non-commercial use only** — see [`license.txt`](license.txt).
